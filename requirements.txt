@@ -4,3 +4,4 @@ djangorestframework
 python-telegram
 django
 django-extensions
+python-telegram-bot
